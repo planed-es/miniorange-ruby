@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.licenses    = ["MIT"]
   s.summary     = "Client for MiniOrange service"
   s.email       = "contact@planed.es"
-  s.homepage    = "http://www.google.es"
+  s.homepage    = "https://bitbucket.org/planed/miniorange-ruby"
   s.description = "Client for MiniOrange service"
   s.authors     = ['Michaël Martín Moro']
 
